@@ -1,0 +1,11 @@
+C:\Users\Мой дом\source\repos\Van-Hao\Van-Hao\bin\Debug\Van-Hao.exe.config
+C:\Users\Мой дом\source\repos\Van-Hao\Van-Hao\bin\Debug\Van-Hao.exe
+C:\Users\Мой дом\source\repos\Van-Hao\Van-Hao\bin\Debug\Van-Hao.pdb
+C:\Users\Мой дом\source\repos\Van-Hao\Van-Hao\obj\Debug\Van-Hao.csprojAssemblyReference.cache
+C:\Users\Мой дом\source\repos\Van-Hao\Van-Hao\obj\Debug\Van_Hao.Form1.resources
+C:\Users\Мой дом\source\repos\Van-Hao\Van-Hao\obj\Debug\Van_Hao.Form2.resources
+C:\Users\Мой дом\source\repos\Van-Hao\Van-Hao\obj\Debug\Van_Hao.Properties.Resources.resources
+C:\Users\Мой дом\source\repos\Van-Hao\Van-Hao\obj\Debug\Van-Hao.csproj.GenerateResource.cache
+C:\Users\Мой дом\source\repos\Van-Hao\Van-Hao\obj\Debug\Van-Hao.csproj.CoreCompileInputs.cache
+C:\Users\Мой дом\source\repos\Van-Hao\Van-Hao\obj\Debug\Van-Hao.exe
+C:\Users\Мой дом\source\repos\Van-Hao\Van-Hao\obj\Debug\Van-Hao.pdb
